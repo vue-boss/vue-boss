@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vue-emperor
+- 👋 Hi, I’m @vue-developer
 - 👀 I’m interested in vue react,typescript,games,travel and so on.
 - 🌱 I’m currently learning react and vue
 - 💞️ I’m looking to collaborate on vue and react
